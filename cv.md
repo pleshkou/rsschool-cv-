@@ -1,8 +1,8 @@
 #Resume
     
 1. **Aliaksandr Pleshkou**
-2.
-
+2. tel. +375296815441, e-mail: *pla@tut.by*
+3. I want to learn JavaScript and React.
 
 
 
