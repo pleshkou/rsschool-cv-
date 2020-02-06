@@ -6,8 +6,9 @@
 4. No skills, sorry)).
 5. No code examples.
 6. No experience too.
-7. MRTI.
+7. *MRTI*.
 8. My English is not very good.
+
 
 
 
