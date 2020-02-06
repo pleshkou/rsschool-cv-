@@ -7,7 +7,7 @@
 5. No code examples.
 6. No experience too.
 7. MRTI.
-8. My English is not very good.
+8. My *English* is not very good.
 
 
 
